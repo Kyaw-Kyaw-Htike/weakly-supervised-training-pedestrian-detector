@@ -1,5 +1,5 @@
 %{
-Copyright (C) Dr. Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
+Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
 
 Given foreground masks for each frame in the video (the first half, 
 i.e. training data), train a pedestrian prior (in the form of a classifier)
