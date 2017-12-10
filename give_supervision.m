@@ -1,3 +1,5 @@
+% Copyright (C) Dr. Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
+
 dir_save = 'weak_GT';
 dir_images = 'D:/Research/Datasets/MIT_Traffic/GT/frames_train';
 
