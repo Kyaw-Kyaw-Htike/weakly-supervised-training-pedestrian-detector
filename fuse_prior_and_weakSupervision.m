@@ -1,5 +1,5 @@
 %{
-Copyright (C) Dr. Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
+Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
 
 Given weak supervisions and the pedestrian prior, fuse these two cues to
 generate strong (bounding box) supervisions.
