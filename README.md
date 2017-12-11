@@ -1,4 +1,4 @@
-# weakly_supervised_training_pedestrian_detector
+# weakly-supervised-training-pedestrian-detector
 Weakly supervised training of pedestrian detectors
 
 Part of the code for the project "Weakly supervised training of pedestrian detectors". 
